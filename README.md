@@ -1,13 +1,13 @@
 # ABEXIII
 
-Disciplina de ABEX 3, Projeto Copiloto.
+Disciplina de ABEX 3, Projeto PEREGRINO.
 
 ## DESCRIÇÃO
 
 Informações relacionadas ao Projeto
 
 ### Integrantes do projeto:
-Igor Zanatta Palliga,
+Erik Knoblauch Rickwardt,
 Murylo Augusto Teixeira,
 Gabriel Bregalda,
 Gustavo Alves,
